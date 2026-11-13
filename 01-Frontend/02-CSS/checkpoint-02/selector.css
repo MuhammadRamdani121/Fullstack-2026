@@ -1,0 +1,33 @@
+h2 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.judul {
+  color: yellow;
+}
+
+.isi {
+  color: green;
+}
+
+#judul {
+  color: blueviolet;
+}
+#isi {
+  color: pink;
+}
+
+.isi1,
+.isi2,
+.isi3 {
+  color: darkgreen;
+}
+
+* {
+  margin: 2;
+  padding: 2;
+}
