@@ -1,0 +1,13 @@
+.warna-name {
+  color: red;
+}
+.warna-hex {
+  color: #68765b;
+}
+.warna-rgb {
+  color: rgb(104, 118, 91);
+}
+
+.warna-rgba {
+  color: rgba(0, 0, 0, 0.5);
+}
