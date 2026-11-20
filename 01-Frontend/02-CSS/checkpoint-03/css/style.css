@@ -11,3 +11,11 @@
 .warna-rgba {
   color: rgba(0, 0, 0, 0.5);
 }
+
+.absolute-unit {
+  font-size: 32px;
+}
+
+.persentase {
+  width: 20%;
+}
