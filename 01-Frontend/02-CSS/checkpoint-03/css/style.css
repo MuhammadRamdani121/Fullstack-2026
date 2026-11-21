@@ -1,21 +1,57 @@
-.warna-name {
+/** Color */
+.warna-teks {
   color: red;
 }
-.warna-hex {
-  color: #68765b;
-}
-.warna-rgb {
-  color: rgb(104, 118, 91);
-}
 
-.warna-rgba {
-  color: rgba(0, 0, 0, 0.5);
+.warna-bg {
+  background: blanchedalmond;
 }
+/** End Color */
 
-.absolute-unit {
-  font-size: 32px;
+/* *Unit Ukuran */
+.units-pixel {
+  font-size: 40px;
 }
+.units-persentase {
+  font-size: 20%;
+}
+.units-em {
+  font-size: 2em;
+}
+.units-rem {
+  font-size: 2rem;
+}
+/* *End Unit Ukuran */
 
-.persentase {
-  width: 20%;
+/* *TYPOGRAPHY */
+.jenis-font {
+  font-family: "Times New Roman", Times, serif;
 }
+.ukuran-font {
+  font-size: 45px;
+}
+.ketebalan-font {
+  font-weight: 200;
+}
+.style-font {
+  font-style: italic;
+}
+.posisi-teks {
+  text-align: center;
+}
+.dekorasi-text {
+  text-decoration: solid;
+}
+.pengubahan-huruf {
+  text-transform: lowercase;
+}
+.jarak-baris {
+  line-height: 20px;
+}
+.jarak-huruf {
+  letter-spacing: 40px;
+}
+.jarak-kata {
+  word-spacing: 20%;
+}
+/* *END TYPOGRAPHY */
